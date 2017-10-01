@@ -1,6 +1,6 @@
 require 'formula'
 
-class S3Edit < Formula
+class SsmEdit < Formula
   homepage 'https://github.com/tjinjin/ssm-edit'
   version 'v0.0.1'
 
