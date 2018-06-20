@@ -2,9 +2,9 @@ require 'formula'
 
 class SsmEdit < Formula
   homepage 'https://github.com/tjinjin/ssm-edit'
-  version 'v0.0.3'
+  version 'v0.0.4'
   url 'https://github.com/tjinjin/ssm-edit/releases/download/v0.0.3/ssm-edit_v0.0.3_darwin_amd64.tar.gz'
-  sha256 '4ac2df8b887c29410c99da3a7782f0955b98ca8ab45e66f8b5ff0aff1d039481'
+  sha256 'f4a3cf2a854ed61b9766ae7e91b50dc1de257cace91ecda52467b0be27dc569b'
 
   def install
     bin.install 'ssm-edit'
