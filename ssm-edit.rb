@@ -4,7 +4,7 @@ class SsmEdit < Formula
   homepage 'https://github.com/tjinjin/ssm-edit'
   version 'v0.0.3'
   url 'https://github.com/tjinjin/ssm-edit/releases/download/v0.0.3/ssm-edit_v0.0.3_darwin_amd64.tar.gz'
-  sha256 'd5d38d09632939ba149bf0f5a43096a10b2ef6fae7a8181e7d3b78e997f26b86'
+  sha256 '4ac2df8b887c29410c99da3a7782f0955b98ca8ab45e66f8b5ff0aff1d039481'
 
   def install
     bin.install 'ssm-edit'
